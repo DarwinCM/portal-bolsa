@@ -13,12 +13,12 @@ include("includes/head.php");
 
      <!-- Inicio Zona central del sistema -->
      <div class="text-center mt-5">
-        <h1>¡Busca el trabajo de tus sueños!</h1>
+        <h1>¡Cree en en tí lo vas a lograr!</h1>
     </div>
 
-    <div class="text-center mt-4">
+<!--     <div class="text-center mt-4">
         <img src="images/logo 1.jpg" alt="Imagen de búsqueda de empleo" style="max-width: 30%;" class="img-fluid blurry-shadow mx-auto d-block">
-    </div>
+    </div> -->
 
     <div class="row mt-4">
         <div class="col-md-6 offset-md-3">

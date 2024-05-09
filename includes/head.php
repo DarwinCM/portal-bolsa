@@ -67,10 +67,10 @@ session_start();
 
             <!-- Sidebar - Brand -->
             <a class="sidebar-brand d-flex align-items-center justify-content-center" href="index.php">
-                <div class="sidebar-brand-icon rotate-n-15">
+                <!-- <div class="sidebar-brand-icon rotate-n-15">
                     <img src="<?php echo RUTAGENERAL; ?>themplates/img/portafolio.png" alt="" width="30px"
                         style="margin-right: 5px;">
-                </div>
+                </div> -->
                 <div class="sidebar-brand-text mx-1">Bolsa Laboral</div>
             </a>
 
